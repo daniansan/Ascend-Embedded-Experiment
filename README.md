@@ -6,9 +6,13 @@
 1. 下载[软件工具 提取码：ief7](https://pan.baidu.com/s/1g2mzsRLWQQqHkE7AtDrvxQ)链接中的软件并完成安装，虚拟机必装，远程登录和文件传输工具可选择一个进行安装。
     
     Vmware 虚拟机(必装)
+    
     mobaXterm 远程登录和文件传输工具（选装）
+    
     putty 远程登录工具（选装）
+    
     FileZilla 文件传输工具（选装）
+    
     Xftp 文件传输工具（选装）
     
 3. 下载[ubuntu镜像文件 提取码：1ihg](https://pan.baidu.com/s/12DJSe3D3q5WOnWw-PapQHA),使用Vmware创建ubuntu系统。
