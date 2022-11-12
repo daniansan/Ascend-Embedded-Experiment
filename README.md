@@ -3,12 +3,19 @@
 
 如使用自己电脑的同学，完成实验可按如下步骤创建环境
 
-1. 下载[软件工具 提取码：ief7](https://pan.baidu.com/s/1g2mzsRLWQQqHkE7AtDrvxQ)链接中的软件并完成安装。
-2. 下载[ubuntu镜像文件 提取码：1ihg](https://pan.baidu.com/s/12DJSe3D3q5WOnWw-PapQHA),使用Vmware创建ubuntu系统。
-3. 下载[制卡脚本包 提取码：t93u](https://pan.baidu.com/s/1tcbG-bhtHZ82TKMsFNjkJQ)上传到ubuntu虚拟机系统，进行制卡。
-4. git clone 或者下载本仓库的代码并上传到开发板环境下。
-5. UART实验中使用ESP32C3前，需要对其进行固件烧写，固件烧写步骤和软件包在此[链接](https://pan.baidu.com/s/1MCGT-7nqMSKgsvG2ish1ww)下。提取码：ktko
-6. 实验中的涉及模型文件转换步骤，请下载下面两个链接并完成文件夹创建和拷贝，然后进行模型转换。
+1. 下载[软件工具 提取码：ief7](https://pan.baidu.com/s/1g2mzsRLWQQqHkE7AtDrvxQ)链接中的软件并完成安装，虚拟机必装，远程登录和文件传输工具可选择一个进行安装。
+    
+    Vmware 虚拟机(必装)
+    mobaXterm 远程登录和文件传输工具（选装）
+    putty 远程登录工具（选装）
+    FileZilla 文件传输工具（选装）
+    Xftp 文件传输工具（选装）
+    
+3. 下载[ubuntu镜像文件 提取码：1ihg](https://pan.baidu.com/s/12DJSe3D3q5WOnWw-PapQHA),使用Vmware创建ubuntu系统。
+4. 下载[制卡脚本包 提取码：t93u](https://pan.baidu.com/s/1tcbG-bhtHZ82TKMsFNjkJQ)上传到ubuntu虚拟机系统，进行制卡。
+5. git clone 或者下载本仓库的代码并上传到开发板环境下。
+6. UART实验中使用ESP32C3前，需要对其进行固件烧写，固件烧写步骤和软件包在此[链接](https://pan.baidu.com/s/1MCGT-7nqMSKgsvG2ish1ww)下。提取码：ktko
+7. 实验中的涉及模型文件转换步骤，请下载下面两个链接并完成文件夹创建和拷贝，然后进行模型转换。
 
   [在Ascend路径下创建model目录，并下载复制链接中的文件](https://pan.baidu.com/s/1JEF4IRlsSBlO6iS0Nm4vow) 提取码：uaja
 
