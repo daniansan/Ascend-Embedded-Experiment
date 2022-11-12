@@ -5,15 +5,15 @@
 
 1. 下载[软件工具 提取码：ief7](https://pan.baidu.com/s/1g2mzsRLWQQqHkE7AtDrvxQ)链接中的软件并完成安装，虚拟机必装，远程登录和文件传输工具可选择一个进行安装。
     
-    Vmware 虚拟机(必装)
+    Vmware 虚拟机(必装) [参考安装教程](https://blog.csdn.net/zp17834994071/article/details/107137626?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166824266916800180662769%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166824266916800180662769&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-107137626-null-null.142^v63^control,201^v3^control_2,213^v2^t3_esquery_v3&utm_term=VMware%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187)
     
-    mobaXterm 远程登录和文件传输工具（选装）
+    mobaXterm 远程登录和文件传输工具（选装）[参考安装和使用教程](https://blog.csdn.net/m0_45463480/article/details/124672407?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166824275516782391831099%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166824275516782391831099&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-124672407-null-null.142^v63^control,201^v3^control_2,213^v2^t3_esquery_v3&utm_term=mobaXterm&spm=1018.2226.3001.4187)
     
-    putty 远程登录工具（选装）
+    putty 远程登录工具（选装）[参考安装和使用教程](https://blog.csdn.net/l707941510/article/details/80520790?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166824280716782388016747%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166824280716782388016747&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-80520790-null-null.142^v63^control,201^v3^control_2,213^v2^t3_esquery_v3&utm_term=putty&spm=1018.2226.3001.4187)
     
-    FileZilla 文件传输工具（选装）
+    FileZilla 文件传输工具（选装）[参考安装和使用教程](https://blog.csdn.net/weixin_45309916/article/details/107782070?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166824285616782414942783%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166824285616782414942783&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-107782070-null-null.142^v63^control,201^v3^control_2,213^v2^t3_esquery_v3&utm_term=FileZilla&spm=1018.2226.3001.4187)
     
-    Xftp 文件传输工具（选装）
+    Xftp 文件传输工具（选装）[参考安装和使用教程](https://blog.csdn.net/weixin_44953395/article/details/112900516?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166824287716782425669866%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166824287716782425669866&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-112900516-null-null.142^v63^control,201^v3^control_2,213^v2^t3_esquery_v3&utm_term=Xftp&spm=1018.2226.3001.4187)
     
 3. 下载[ubuntu镜像文件 提取码：1ihg](https://pan.baidu.com/s/12DJSe3D3q5WOnWw-PapQHA),使用Vmware创建ubuntu系统。
 4. 下载[制卡脚本包 提取码：t93u](https://pan.baidu.com/s/1tcbG-bhtHZ82TKMsFNjkJQ)上传到ubuntu虚拟机系统，进行制卡。
