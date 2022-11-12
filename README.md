@@ -13,3 +13,6 @@
 [软件工具](https://pan.baidu.com/s/1g2mzsRLWQQqHkE7AtDrvxQ)提取码：ief7
 
 [ESP32C3 固件烧录包](https://pan.baidu.com/s/1MCGT-7nqMSKgsvG2ish1ww)提取码：ktko
+
+
+以下链接是整个实验工程及软件工具的下载链接（实验代码不一定是最新的）[下载链接](https://pan.baidu.com/s/106wKvTo7EkgAhgziSybJSg)提取码：byqx
