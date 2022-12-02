@@ -23,6 +23,7 @@ set(SRC_LIST
     ssd1306.c  
     uart.c
     v4l2.c
+    ms1100.c
 )
 add_definitions(-DENABLE_DVPP_INTERFACE)
 set(INC_PATH $ENV{DDK_PATH})
